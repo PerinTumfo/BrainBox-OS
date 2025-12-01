@@ -1,4 +1,4 @@
-#BrainBOX OS
+# BrainBOX OS
 
 A lightweight, modular, DIY-friendly Linux OS for reimagining old PCs as Raspberry-Pi alternatives.
 
